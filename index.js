@@ -22,3 +22,4 @@ function fuzzysearch (needle, haystack) {
 }
 
 module.exports = fuzzysearch;
+export default fuzzysearch;
